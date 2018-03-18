@@ -6,7 +6,9 @@ namespace MiProyecto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Alfredo 1111999!");
+   Console.WriteLine("antonela 66666!");
+   Console.WriteLine("Hello World!");
         }
     }
 }
