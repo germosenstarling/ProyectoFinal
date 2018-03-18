@@ -1,0 +1,10 @@
+D:\Desktop\MiProyecto\bin\Debug\netcoreapp2.0\MiProyecto.deps.json
+D:\Desktop\MiProyecto\bin\Debug\netcoreapp2.0\MiProyecto.runtimeconfig.json
+D:\Desktop\MiProyecto\bin\Debug\netcoreapp2.0\MiProyecto.runtimeconfig.dev.json
+D:\Desktop\MiProyecto\bin\Debug\netcoreapp2.0\MiProyecto.dll
+D:\Desktop\MiProyecto\bin\Debug\netcoreapp2.0\MiProyecto.pdb
+D:\Desktop\MiProyecto\obj\Debug\netcoreapp2.0\MiProyecto.csproj.CoreCompileInputs.cache
+D:\Desktop\MiProyecto\obj\Debug\netcoreapp2.0\MiProyecto.AssemblyInfoInputs.cache
+D:\Desktop\MiProyecto\obj\Debug\netcoreapp2.0\MiProyecto.AssemblyInfo.cs
+D:\Desktop\MiProyecto\obj\Debug\netcoreapp2.0\MiProyecto.dll
+D:\Desktop\MiProyecto\obj\Debug\netcoreapp2.0\MiProyecto.pdb
