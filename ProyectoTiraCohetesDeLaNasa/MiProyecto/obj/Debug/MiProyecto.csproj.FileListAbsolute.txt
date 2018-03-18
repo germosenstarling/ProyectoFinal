@@ -1,0 +1,6 @@
+D:\Desktop\MiProyecto\MiProyecto\bin\Debug\MiProyecto.exe.config
+D:\Desktop\MiProyecto\MiProyecto\bin\Debug\MiProyecto.exe
+D:\Desktop\MiProyecto\MiProyecto\bin\Debug\MiProyecto.pdb
+D:\Desktop\MiProyecto\MiProyecto\obj\Debug\MiProyecto.csprojResolveAssemblyReference.cache
+D:\Desktop\MiProyecto\MiProyecto\obj\Debug\MiProyecto.exe
+D:\Desktop\MiProyecto\MiProyecto\obj\Debug\MiProyecto.pdb
